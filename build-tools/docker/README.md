@@ -61,3 +61,5 @@ docker run -it --network=mintlayer-net -v ~/.mintlayer:/root/.mintlayer mintlaye
 replace `<NETWORK>` with `mainnet` or `testnet` depending on what network you're running and `<IP_ADDRESS>` with the result of the command above.
 
 This command mounts the same `~/.mintlayer` directory as a volume in the `wallet-cli` container and uses the `--rpc-cookie-file` option to specify the path to the cookie file.
+
+<!-- Auto-update: 2025-10-13T03:45:27.934536 -->
