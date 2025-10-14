@@ -185,3 +185,5 @@ perf report -i /path/to/datadir/send-big-msgs.perf.data.xxxx --stdio | c++filt |
 - [Installing perf](https://askubuntu.com/q/50145)
 - [Perf examples](https://www.brendangregg.com/perf.html)
 - [Hotspot](https://github.com/KDAB/hotspot): a GUI for perf output analysis
+
+<!-- Auto-update: 2025-10-14T12:14:11.598903 -->
