@@ -17,3 +17,5 @@ services:
       RUST_LOG:
     ports:
       - "$DNS_SERVER_HOST_PORT:53/udp"
+
+# Update: 2025-10-15
