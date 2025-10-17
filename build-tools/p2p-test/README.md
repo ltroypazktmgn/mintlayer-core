@@ -51,3 +51,5 @@ print_connected_peers.sh [node_idx1 node_idx2 ...]
 Call `run_wallet_cmd.sh` for each specified node index or, if no indices are specified, for all node indices and print a short summary of the node's connected peers.
 
 This script uses the `jq` tool, so make sure it's installed.
+
+<!-- Auto-update: 2025-10-17T10:10:57.815162 -->
